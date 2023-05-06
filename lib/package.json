@@ -1,0 +1,18 @@
+{
+  "name": "@theopensource-company/ra-surreal",
+  "version": "1.0.0",
+  "description": "A react-admin provider for SurrealDB",
+  "main": "index.ts",
+  "keywords": [
+    "react-admin",
+    "surrealdb"
+  ],
+  "author": "The Open Source Company",
+  "license": "MIT",
+  "devDependencies": {
+    "react-admin": "^4.10.2"
+  },
+  "peerDependencies": {
+    "react-admin": "^4.10.2"
+  }
+}

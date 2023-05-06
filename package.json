@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "demo": "cd demo && pnpm dev"
+    }
+}
